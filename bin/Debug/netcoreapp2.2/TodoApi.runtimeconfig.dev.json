@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ATLAS OKYANUS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ATLAS OKYANUS\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
